@@ -3,6 +3,4 @@
 ubuntu
 
 ```html
-<p>sudo apt update</p>
-
-<pre id="codeSnippet">
+sudo apt update
