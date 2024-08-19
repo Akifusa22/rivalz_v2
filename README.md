@@ -1,26 +1,8 @@
-# rivalz_v2
-</pre>
+# My Project
 
-<button onclick="copyToClipboard()">Copy to Clipboard</button>
+This is a description of my project. Below is a code snippet, and you can copy it with the button.
 
-<script>
-function copyToClipboard() {
-  // Get the text from the code snippet
-  var text = document.getElementById('codeSnippet').innerText;
+```html
+<p>Click the button below to copy the code snippet to your clipboard.</p>
 
-  // Create a temporary text area to copy from
-  var tempTextArea = document.createElement("textarea");
-  tempTextArea.value = text;
-  document.body.appendChild(tempTextArea);
-
-  // Select the text and copy it to clipboard
-  tempTextArea.select();
-  document.execCommand("copy");
-
-  // Remove the temporary text area
-  document.body.removeChild(tempTextArea);
-
-  // Alert user that the text has been copied
-  alert("Code copied to clipboard!");
-}
-</script>
+<pre id="codeSnippet">
