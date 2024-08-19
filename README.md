@@ -1,8 +1,8 @@
-# My Project
+# Rivalz V2
 
-This is a description of my project. Below is a code snippet, and you can copy it with the button.
+ubuntu
 
 ```html
-<p>Click the button below to copy the code snippet to your clipboard.</p>
+<p>sudo apt update</p>
 
 <pre id="codeSnippet">
