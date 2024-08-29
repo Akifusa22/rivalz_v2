@@ -12,7 +12,7 @@ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 ```
 ubuntu
 ```html
-csudo apt install -y nodejs
+sudo apt install -y nodejs
 ```
 ubuntu
 ```html
